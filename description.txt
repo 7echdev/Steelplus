@@ -1,0 +1,7 @@
+This mod adds several blocks crafted
+from the default's steel block. 
+Some are decorative and
+allowing some kind of 
+interaction. Others add
+security levels based 
+on colored access cards.
